@@ -1,2 +1,2 @@
-# Dise-o-de-S.E
+# Diseño-de-S.E
 trabajos de diseño de s.e
